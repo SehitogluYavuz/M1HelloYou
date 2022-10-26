@@ -1,0 +1,81 @@
+name = input('Enter your name! ')
+print(f'Hallo {name}! welkom ')
+start = input('start het spel of sluit het af?')
+if start == 'start':
+    print("goed laten we snel gaan begginen")
+    setting = input("Het verhaal speelt zich af in Egypte 1963 (type doorgaan om door te gaan) ")
+else:
+    print("ok bye bye")
+    quit() 
+
+if setting == "doorgaan":
+    print("je bent in Egypte in 1963 jij bent Amir Adal en leeft al 17 jaar met je opa en op een dag word jouw dorp aangevallen")
+    response = input ("je opa is er niet van plan om te vluchten maar jij weet dat hij het niet gaat overleven wat doe je nu (laat hem achter en VLUCHT of BLIJF met hem en vecht) ")
+    if response == "vlucht":
+        print("je geeft je opa een laatste knuffel en rent zo snel mogelijk weg einde 1")
+    elif response == "blijf":  
+        print("Je grijpt de zwaard onder jouw bed en rent naar buite vorvolgens staan de vijanden voor je neus je steekt hem met jouw zwaard en begint te rennen opeens zie je dat er een groep egyptische mensen die ook aan het strijden zijn voor hun land je loopt naar het groep toe")
+ 
+
+print("je vraagt hun wat het plan is en hun zeggen dat er geen plan is en dat jullie er gewoon op af gaan rennen dat vind jij niet slim")
+response = input ("ga je ALLEEN of BLIJF je met de groep ")
+if response == "alleen":
+    print("je klimt het berg op om hun leider te vinden")
+elif response == "blijf":
+    print("Jullie begginnen te schreeuwen en te rennen naar het vijand en TUURLIJK gaan jullie dood einde 2")
+
+print("nu ben je alleen en je weet dat iedereen die jij kent dood is je staat er alleen voor en besluit om te vluchten je rent zo snel mogelijk naar het huis van je vriend je vriend is een piloot")
+response = input ("je komt bij het huis van je vriend en vraagt hem of hij jouw kan laten vliegen naar een ander land en toevallig moest hij naar Amerika voor een piloots event en hij vraagt of je mee wil en jij vind amerika te ver maar hebt geen ander keuze dus gaat maar mee de volgende avond zijn jullie in Amerika nu moet je goed verstoppen anders word je gepakt door de politie want je bent iligaal in Ameirika nu maak je een keuze of je neemt het risico en KLEED JE OM je als een event mederwerker of je VLUCHT naar het stad om daar een niewe leven te starten ")
+if response == "vlucht":
+    print("je steelt gaat naar het stad en start daar een nieuwe leven einde 3")
+elif response == "kleed je om":
+    print("je gaat stiekem naar het kleed kamer en vervolgens vraagt een personeel wie jij bent en omdat jij geen engels kan kan jij daar geen antwoord op geven vervolgens haalt de personeel de politie erbij en komen zij erachter dat jij iligaal in het land ben jij probeert weg te rennen tijdens het weg rennen sla je een politie agent met een fles die je daar hebt gevonden en omdat je geweld uitvoert tegen een agent krijg je cel straf voor 4 maanden ")
+
+print("je zit al inmiddels 3 maanden in het gevangenis, nu is het tijd om te eten en jij hoort dat een groep gevangene een opstand willen starten maar jij wilt dat niet want je bent over 24 dagen vrij")
+response = input ("VERTEL je dit plan aan de agenten of blijf je STIL")
+if response == "Vertel":
+    print("een andere gevanene heeft je hoort dat jij het vertelt aan de agenten en vertelt dit aan zijn groep")
+elif response == "":
+    print("")
+
+print("")
+response = input ("")
+if response == "":
+    print
+elif response == "":
+    print("")
+
+print("")
+response = input ("")
+if response == "":
+    print
+elif response == "":
+    print("")
+
+print("")
+response = input ("")
+if response == "":
+    print
+elif response == "":
+    print("")
+
+print("")
+response = input ("")
+if response == "":
+    print
+elif response == "":
+    print("")
+
+print("")
+response = input ("")
+if response == "":
+    print
+elif response == "":
+    print("")
+
+print("")
+response = input ("")
+if response == "":
+    print
+elif response == "":
+    print("")
