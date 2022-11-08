@@ -34,48 +34,48 @@ elif response == "kleed je om":
 print("je zit al inmiddels 3 maanden in het gevangenis, nu is het tijd om te eten en jij hoort dat een groep gevangene een opstand willen starten maar jij wilt dat niet want je bent over 24 dagen vrij")
 response = input ("VERTEL je dit plan aan de agenten of blijf je STIL")
 if response == "Vertel":
-    print("een andere gevanene heeft je hoort dat jij het vertelt aan de agenten en vertelt dit aan zijn groep")
-elif response == "":
-    print("")
+    print("een andere gevanene heeft je hoort dat jij het vertelt aan de agenten en vertelt dit aan zijn groep een paar dagen later word je doodgesgtoken in de gang")
+elif response == "stil":
+    print("Je wacht op het dag dat het opstand gaat gebeuren na 7 dagen heb je een pakketje op je bed je opent het en ziet een mes vervolgens komen de agent binnen stomen om een controle te doen jij weet dat dit een plan was van de groep gevangene maar je kan er niks tegen doen want je bent in je kamer met een mes in je hand")
 
-print("")
-response = input ("")
-if response == "":
-    print
-elif response == "":
-    print("")
+print("je zit nu in de problemen maar gelukig heeft de camera gezien dat er iemand in jouw cell kwam om een pakketje te zetten")
+response = input ("Het kwam weer goed en je bent over 18 dagen vrij maar je weet niet wat je moet doen als je vrij bent je kan altijd ILIGAAL geld verdienen of WERKEN bij de supermakrt")
+if response == "werken":
+    print("Je bent eenmaal vrij en werkt al inmiddels 4 maanden als ober bij een cafe maar je vind het best wel saai")
+elif response == "iligaal":
+    print("heb hebt mensen leren kennen die makkelijk aan geld komen en jij werkt nu voor hun maar je wilt eigenlijk je eigen baas zijn")
 
-print("")
-response = input ("")
-if response == "":
-    print
-elif response == "":
-    print("")
+print("je gaat een overval plegen maar dat kan niet alleen dus je bent stiekem aan het zoeken naar mensen die dit willen doen vervolgens heb je een paar mensen gevonden en jullie hebben afgespoken om over 3 dagen te beginnen")
+response = input ("Het is 3 dagen later jullie doen de maskers op en stroomen naar binnen en schreuwen WIE NIET OP DE GORND LIGT GAAT DOOD 20 minuten later hebben jullie al het geld en zitten in een caravan je bent van plan om al de mannen te doden zodat jij al het geld hebt ga je dit DOEN of NIET")
+if response == "doen":
+    print("jullie zijn inmiddels ontsnapt van de politie je parkeert je caravan en zegt dat je naar de wc moet vervolgens stappen de andere ook uit het caravan voor een frisse lucht en een voor een vermoord jij de mannen vervolgens rij je zo snel mogelijk weg met je caravan")
+elif response == "niet":
+    print("jullie zijn ontsnapt en je bent in een veilige buurt en vervolgens rijdt een motor langs en begint op jouw te schieten hij heeft je geraakt in je hart en ben jij dood einde 4")
 
-print("")
-response = input ("")
-if response == "":
-    print
-elif response == "":
-    print("")
+print("je bent ontsnapt je bent nu ben je heel rijk en besluit om aan te sluiten bij de mafia")
+response = input ("het is 5 jaar later en jij bent een van de machtigste maffia bazen van Amerika en hebt veel vijanden je besluit om hun uit te schakelen maar eigenlijk wil je stoppen STOP / VAL AAN")
+if response == "val aan":
+    print("Je overleid tijdens het gevecht einde 5")
+elif response == "stop":
+    print("je wilt een nieuwe leven beginnen en dat wil je doen in je moeder land Egypte dus je gaat teurg")
 
-print("")
-response = input ("")
-if response == "":
-    print
-elif response == "":
-    print("")
+print("je bent nu al 2 jaar in Egypte en je voelt je niet zo lekker je vrienden raaden jouw aan om naar de dokter te gaan")
+response = input ("GA je naar de dokter of LAAT je het zitten")
+if response == "ga":
+    print("je gaat naar de dokter en komt er achter dat je een ernstige ziekte hebt maar gellukig kwam je zo vroeg ")
+elif response == "laat":
+    print("je word erger ziek en overleid door je ziekte einde 6")
 
-print("")
-response = input ("")
-if response == "":
-    print
-elif response == "":
-    print("")
+print("Je vijanden van Amerika zijn in Egypte om jouw te vermoorden maar jij ligt nog ziek in bed dus stuurt een paar mannen om hun uit te schakelen")
+response = input ("er word aan de deur geklopt het zijn je vijanden ze willen dat je terug komt naar Amerika en dat je weer begint met het maffia DOE het of DOE HET NIET")
+if response == "doe":
+    print("je daat terug naar Amerika en word de top maffia baas in history")
+elif response == "doe het niet":
+    print("je zegt dat je te moe bent voor al dat maffia gedoe maar vervolgens worden de maffias kwaad en vermoorden jou terwijl jij ziek in je bed ligt")
 
-print("")
-response = input ("")
-if response == "":
-    print
-elif response == "":
-    print("")
+print("Dit was het einde van mijn verhaal ik weet dat het een zwak verhaal is maar ik kan zeggen dat ik mij best heb gedaan om er wat te maken")
+response = input ("de volgende keer zal ik het veel beter doen maar wat vond jij ervan LEUK-SAAI")
+if response == "leuk":
+    print("bedankt voor het spelen")
+elif response == "saai":
+    print("bedankt voor het spelen ik zal het voor de volgende keer beter doen")
